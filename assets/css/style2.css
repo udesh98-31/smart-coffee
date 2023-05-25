@@ -30,11 +30,13 @@ body {
     ===================================*/
 
 .logo-custom {
-    max-height: 50px;
+    margin-top: -15px;
+    max-height: 70px;
+    width: 110px;
 }
 
 #menu {
-    background-color: rgba(77, 77, 77, 1);
+    background-color: rgb(255, 255, 255);
     color: #fff;
     font-size: 12px;
     font-weight: 900;
@@ -48,7 +50,7 @@ body {
 }
 
     .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-nav > li > a:hover {
-        color: #FFF;
+        color: #000000;
         padding: 22px 10px;
     }
 
@@ -68,7 +70,7 @@ body {
 }
 
     .home-sec .overlay {
-        background: rgba(204, 69, 69, 0.78);
+        background: rgba(22, 22, 22, 0.78);
         min-height: 500px;
     }
 
